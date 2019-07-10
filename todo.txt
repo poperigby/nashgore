@@ -4,8 +4,3 @@
 
 suggestion:
 - gravity slider for blood
-
-Credits:
-
-m8f - tooltip fixes
-phantombeta, major cooke - coding assistance
