@@ -1,0 +1,11 @@
+- reimplement decal sprayer
+- i need opaque wall decals holy fuck
+- crushed corpses (the ones that spawn the gore trails) can`t be resurrected by archviles
+
+suggestion:
+- gravity slider for blood
+
+Credits:
+
+m8f - tooltip fixes
+phantombeta, major cooke - coding assistance
