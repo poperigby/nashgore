@@ -174,7 +174,7 @@ class NashGoreHandler : EventHandler
 
 		// other stuff
 		if (e.Replacee == "RealGibs") e.Replacement = "NashGoreRealGibs";
-		if (nashgore_icedeath == true && e.replacee == "IceChunk") e.Replacement = "NashGoreIceChunk";
+		if (nashgore_icedeath == true && e.Replacee == "IceChunk") e.Replacement = "NashGoreIceChunk";
 	}
 
 	//===========================================================================
