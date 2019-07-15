@@ -98,7 +98,7 @@ class NashGoreBloodImpact : NashGoreBloodBase
 	{
 	Spawn:
 		TNT1 A 0 NoDelay A_PlaySound("nashgore/bullethitflesh");
-		BIMP ABCDE 3;
+		BLIM ABCDE 3;
 		Stop;
 	}
 }
