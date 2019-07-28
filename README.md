@@ -1,20 +1,20 @@
-Nash's Gore Mod: Vengeance Edition
+# Nash's Gore Mod: Vengeance Edition
 Version: 1.0
 Requires: GZDoom 4.1.3 or higher
 Official forum thread: https://forum.zdoom.org/viewtopic.php?f=46&t=62641
 Github: https://github.com/nashmuhandes/nashgore
 
-#Load Order
+### Load Order
 
 Please load nashgore.pk3 last (or fairly late) in your load order, to ensure
 that no other mod overrides NGM's content.
 
-#Options
+### Options
 
 Most of the effects in Nash's Gore Mod can be customized. Please visit
 the Options menu for more details.
 
-#Special Lump: BLUDTYPE
+### Special Lump: BLUDTYPE
 
 Nash's Gore Mod introduces a new special lump called BLUDTYPE. You can simply
 create a BLUDTYPE.txt and load it after NGM; the lumps will stack.
@@ -37,7 +37,7 @@ BlueBlood
 GreenBlood
 ```
 
-#Know Issues/TODO List
+### Know Issues/TODO List
 
 - Heretic Knight's axe spawns blood (A_DripBlood)
 - Crushed/squishy gibs probably don't work correctly with crushing polyobjs
@@ -48,7 +48,7 @@ GreenBlood
   colour. Fixing this would require GZDoom to implement translatable opaque
   wall decals.
 
-#Credits
+### Credits
 
 Nash's Gore Mod: Vengeance Edition
 © 2006 - 2019 Nash Muhandes
