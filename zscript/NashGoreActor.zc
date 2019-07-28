@@ -41,7 +41,7 @@ class NashGoreActor : NashGorePlugin
 	bool bShattered;
 	bool bSquished;
 
-	const MAX_FALLTICS = 20;
+	const MAX_FALLTICS = 15;
 	int fallTics;
 
 	const MAX_FOOTPRINT_DURATION = 65;
