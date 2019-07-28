@@ -229,6 +229,14 @@ class NashGoreGibs : Actor
 	Death:
 		"####" E 0
 		{
+			// clip gib into terrain
+			let t = GetFloorTerrain();
+			if (t && t.FootClip > 0)
+			{
+				// clip by 2 map units; ignore the terrain's FootClip value
+				FloorClip = 2;
+			}
+
 			class<Actor> cls;
 			if (nashgore_bloodtype == 0)		cls = "NashGoreBloodSpot";
 			else if (nashgore_bloodtype == 1)	cls = "NashGoreBloodSpotClassic";
