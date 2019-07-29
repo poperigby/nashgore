@@ -1,8 +1,8 @@
 # Nash's Gore Mod: Vengeance Edition
-Version: 1.0
-Requires: GZDoom 4.1.3 or higher
-Official forum thread: https://forum.zdoom.org/viewtopic.php?f=46&t=62641
-Github: https://github.com/nashmuhandes/nashgore
+Version: 1.0<br/>
+Requires: GZDoom 4.1.3 or higher<br/>
+Official forum thread: https://forum.zdoom.org/viewtopic.php?f=46&t=62641<br/>
+Github: https://github.com/nashmuhandes/nashgore<br/>
 
 ### Load Order
 
@@ -60,17 +60,17 @@ Audio mixed and mastered by Nash Muhandes
 
 Special thanks:
 
-Marisa Heit
-Graf Zahl
-Rachael
-dpJudas
-Gutawer
-phantombeta
-ZZYZX
-Marisa Kirisame
-Caligari87
-Namsan
-m8f
+Marisa Heit<br/>
+Graf Zahl<br/>
+Rachael<br/>
+dpJudas<br/>
+Gutawer<br/>
+phantombeta<br/>
+ZZYZX<br/>
+Marisa Kirisame<br/>
+Caligari87<br/>
+Namsan<br/>
+m8f<br/>
 
 Sound sources:
 
