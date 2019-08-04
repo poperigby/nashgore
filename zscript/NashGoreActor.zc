@@ -205,8 +205,9 @@ class NashGoreActor : NashGorePlugin
 			// gibbed stuff
 			bool canGib =
 			(
-				Owner.Health < Owner.GetGibHealth() ||
-				(Owner.FindState('XDeath', true) != NULL && Owner.InStateSequence(Owner.CurState, Owner.ResolveState('XDeath')))
+				Owner.Health < Owner.GetGibHealth() &&
+				Owner.FindState('Death.Extreme', true) != NULL &&
+				Owner.InStateSequence(Owner.CurState, Owner.ResolveState('Death.Extreme'))
 			);
 
 			if (!bGibbed && canGib && bCanBleed)
