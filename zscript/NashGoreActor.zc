@@ -150,7 +150,12 @@ class NashGoreActor : NashGorePlugin
 			// falling death. SPLAT!
 			if (nashgore_splat && Owner.waterlevel < 2)
 			{
-				if (fallTics < MAX_FALLTICS && !NashGoreStatics.bIsOnFloor(Owner)) fallTics++;
+				if (fallTics < MAX_FALLTICS && !NashGoreStatics.bIsOnFloor(Owner)
+					&& Owner.Vel.Z < 1)
+				{
+					fallTics++;
+				}
+
 				if (fallTics == MAX_FALLTICS && NashGoreStatics.bIsOnFloor(Owner) && !Owner.bIceCorpse)
 				{
 					Owner.A_PlaySound("nashgore/bodydrop");
