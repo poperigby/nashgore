@@ -50,12 +50,12 @@ GreenBlood
 
 ### Credits
 
-Nash's Gore Mod: Vengeance Edition
+Nash's Gore Mod: Vengeance Edition<br/>
 © 2006 - 2019 Nash Muhandes
 
-All graphics, sprites and code by Nash Muhandes
-Slope alignment method by ZZYZX
-Sounds by various FreeSound contributors (see below)
+All graphics, sprites and code by Nash Muhandes<br/>
+Slope alignment method by ZZYZX<br/>
+Sounds by various FreeSound contributors (see below)<br/>
 Audio mixed and mastered by Nash Muhandes
 
 Special thanks:
