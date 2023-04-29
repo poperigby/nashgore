@@ -31,7 +31,7 @@ NASHGOREMNU_CONTROLS_CLEARGORE = "Очистить эффекты расчлен
 // Generic reusable labels
 NASHGOREMNU_ENABLED = "Включено";
 NASHGOREMNU_DEFAULT = "По умолчанию";
-NASHGOREMNU_VANILLA = "Vanilla";
+NASHGOREMNU_VANILLA = "Изначально";
 NASHGOREMNU_REALISTIC = "Реалистично";
 
 // Specific labels
@@ -41,7 +41,7 @@ NASHGOREMNU_BLOOD_SPRITE_DECALS = "Декали";
 NASHGOREMNU_BLOOD_SPRITE_SPRITES = "Спрайты";
 
 // Help text
-NASHGOREMNU_HELPTEXT_BLOOD_TYPE = "Хит-скан для типа крови.";
+NASHGOREMNU_HELPTEXT_BLOOD_TYPE = "Простреливаемый тип крови.";
 NASHGOREMNU_HELPTEXT_BLOOD_AMOUNT = "Регулирует количество крови.";
 NASHGOREMNU_HELPTEXT_BLOOD_SPRITES = "Использовать декали или спрайты для пятен крови.";
 NASHGOREMNU_HELPTEXT_BLOOD_SPURTS = "Включить брызги крови на трупах.";
