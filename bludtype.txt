@@ -1,1 +1,70 @@
-// nothing
+// Smooth Doom - added by Nash Muhandes
+XBlood
+BlueBlood
+GreenBlood
+
+// Beautiful Doom - added by sibullski
+BD_BloodyFootPrint
+BD_Blood
+BD_BloodPool
+BD_SSGibControl
+BD_GibBlood
+BD_GibBloodPool
+bdoom_blood
+bdoom_gibs
+bdoom_nobossgibs
+bdoom_livegibs
+AniBloodPool
+TestBlood
+
+// DoomRL Arsenal Monster Pack - added by cubebert
+RLNashGore_Blood
+RLNashGore_CyberBlood
+RLNashGore_BossBlood
+RLNashGore_TechVileBlood
+RLSpectreBlood
+
+// Hideous Destructor - added by Sirus
+BloodSplat
+BloodSplatSilent
+MegaBloodSplatter
+HDMasterBlood
+CacoShellBlood
+
+// Complex Doom - added by sibullski
+BlackBlood
+OrangeBlood
+PurpleBlood
+
+// D4T: Death Foretold - added by OverDriver05
+D4TBlood
+D4TBloodSplatter
+GibDropperMedium
+GibDropperMediumBig
+GibDropperBig
+GibDropperSmall
+ExtraGibbletsDropper
+BloodCloud
+BloodCloudMediumBig
+BloodCloudBig
+NewMeat
+BloodParticle
+BloodParticleSmall
+NoBloodPuff
+
+// Kriegsland 
+Blood
+NewBloodFlying
+NewBloodDrop
+GiantBlood
+NewBlood
+BloodSpawner
+BO_NashGore_GibGenerator 
+BO_NashGore_Gib1
+BO_NashGore_Gib2
+BO_NashGore_Gib3
+BO_NashGore_Gib4
+BO_NashGore_Gib5
+BO_NashGore_Gib6
+BO_NashGore_Gib7
+BO_NashGore_Gib8
